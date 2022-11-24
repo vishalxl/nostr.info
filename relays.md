@@ -4,8 +4,8 @@ title: Relays
 permalink: /relays/
 ---
 
-<link rel="stylesheet" href="/assets/css/main.css">
-<script src="${document.location.origin}/assets/js/main.js"></script>
+<link rel="stylesheet" href="https://vishalxl.github.io/nostr.info/assets/css/main.css">
+<script src="https://vishalxl.github.io/nostr.info/assets/js/main.js"></script>
 
 <select name="tab" id="tab" onchange="setDirty()">
   <option value="relays">Show Relays</option>
